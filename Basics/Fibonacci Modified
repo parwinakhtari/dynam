@@ -1,5 +1,5 @@
 Solution in python3
-[full question link](https://www.hackerrank.com/challenges/fibonacci-modified/problem)
+full question link: https://www.hackerrank.com/challenges/fibonacci-modified/problem
 
 def fibonacciModified(t1, t2, n):
     i = 2
