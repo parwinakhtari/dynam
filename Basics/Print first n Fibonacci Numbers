@@ -1,5 +1,5 @@
-Solution in C++
 Complete question Link: https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&difficulty[]=-1&page=1&query=category[]Dynamic%20Programmingdifficulty[]-1page1category[]Dynamic%20Programming
+Solution in C++:
 
     vector<long long> printFibb(int n) 
     {
