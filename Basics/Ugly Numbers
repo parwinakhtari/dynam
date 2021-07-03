@@ -2,7 +2,7 @@ Complete Question Link:https://practice.geeksforgeeks.org/problems/ugly-numbers2
 Solution in cpp:
 
 
-int getNthUglyNo(unsigned n)
+int getNthUglyNo(int n)
 {
     // To store ugly numbers
     int ugly[n];
