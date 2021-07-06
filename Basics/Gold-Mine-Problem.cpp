@@ -1,4 +1,4 @@
-Complete question link:https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
+Complete question link: https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
 
 // C++ program to solve Gold Mine problem
 #include<bits/stdc++.h>
@@ -22,14 +22,14 @@ int getMaxGold(int gold[][MAX], int m, int n)
 	{
 		for (int row=0; row<m; row++)
 		{
-			// Gold collected on going to the cell on the right(->)
+			// Gold collected on going to the cell on the right
 			int right = (col==n-1)? 0: goldTable[row][col+1];
 
-			// Gold collected on going to the cell to right up (/)
+			// Gold collected on going to the cell to right up
 			int right_up = (row==0 || col==n-1)? 0:
 							goldTable[row-1][col+1];
 
-			// Gold collected on going to the cell to right down (\)
+			// Gold collected on going to the cell to right down
 			int right_down = (row==m-1 || col==n-1)? 0:
 							goldTable[row+1][col+1];
 
