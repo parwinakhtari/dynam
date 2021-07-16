@@ -1,5 +1,7 @@
-Complete Question Link: https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&difficulty[]=0&page=1&query=category[]Dynamic%20Programmingdifficulty[]0page1category[]Dynamic%20Programming
-Solution in cpp:
+/
+  /*
+  Complete Question Link: https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&difficulty[]=0&page=1&query=category[]Dynamic%20Programmingdifficulty[]0page1category[]Dynamic%20Programming
+*/
 
 int NumberOfPath(int a, int b)
     {
